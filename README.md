@@ -1,8 +1,5 @@
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=k-kz&count_private=true&show_icons=true&theme=github_dark&hide=issues,stars&custom_title=k-kz's GitHub Stats&border_color=58A6FF" />
-  <br>
   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nik-Potokar&repo=XIVSlothCombo&border_color=58A6FF&theme=github_dark&show_owner=true" /> <br>
     <a href="https://ko-fi.com/kkzkkz" alt="Donate on Ko-Fi">
